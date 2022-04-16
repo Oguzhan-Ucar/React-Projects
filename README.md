@@ -1,3 +1,3 @@
 # React Projects
 
-React practise
+React practises
