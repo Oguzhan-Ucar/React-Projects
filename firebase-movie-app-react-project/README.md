@@ -2,7 +2,7 @@
 
 React practise
 
-This project deployed with Heroku >>> https://firebase-movie-app-project.herokuapp.com/
+This project deployed with heroku >>> https://firebase-movie-app-project.herokuapp.com/
 
 ## Project Skeleton 
 
