@@ -1,1 +1,1 @@
-# React practise
+# React practisees
