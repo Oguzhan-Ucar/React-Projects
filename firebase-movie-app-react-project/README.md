@@ -37,6 +37,3 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
-
-![Project 008 Snapshot](movie-app.gif)
