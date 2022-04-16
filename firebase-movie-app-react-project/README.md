@@ -1,4 +1,8 @@
-This project is located at this address https://firebase-movie-app-project.herokuapp.com/
+# Firebase Movie App
+
+React practise
+
+This project deployed with Heroku >>> https://firebase-movie-app-project.herokuapp.com/
 
 ## Project Skeleton 
 
