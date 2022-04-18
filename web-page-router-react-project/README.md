@@ -2,4 +2,5 @@
 
 React practice
 
-This project deployed with netlify >>> https://web-page-router-react-projct.netlify.app
+This project deployed with netlify >>> https://web-page-router-react-project.netlify.app
+
